@@ -1,0 +1,134 @@
+{
+  "place_id": "ChIJt1NDHGGvEmsRlxo41qJYXVE",
+  "name": "Bluegums Carpentry",
+  "address": "72 Glassop St, Balmain NSW 2041, Australia",
+  "phone": "0434 982 408",
+  "website": "",
+  "google_maps_url": "https://maps.google.com/?cid=5862939746308201111",
+  "rating": 5,
+  "review_count": 5,
+  "business_status": "OPERATIONAL",
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "editorial_summary": "",
+  "hours": [
+    "Monday: 7:00 AM – 5:00 PM",
+    "Tuesday: 7:00 AM – 7:00 PM",
+    "Wednesday: 7:00 AM – 7:00 PM",
+    "Thursday: 7:00 AM – 7:00 PM",
+    "Friday: 7:00 AM – 7:00 PM",
+    "Saturday: 8:00 AM – 5:00 PM",
+    "Sunday: Closed"
+  ],
+  "reviews": [
+    {
+      "author": "Lachie Mcgregor",
+      "rating": 5,
+      "text": "Jonah from Bluegums Carpentry built a deck for me, and it turned out better than I could’ve hoped for. His attention to detail and craftsmanship are next level, and he made sure everything was finished perfectly. Jonah was easy to deal with, listened to what I wanted, and even gave some great suggestions to improve the design. Couldn’t be happier with the result — if you need quality carpentry, he’s your guy!",
+      "time": "a year ago"
+    },
+    {
+      "author": "Lenore McGuinness",
+      "rating": 5,
+      "text": "Thank you Jonah!!! Thank you for working around our specific times & working with our neighbour  businesses with your kind calm demeanour. Our pergola structure is the talk of That Vintage Emporium. So versatile & helps us change the look & feel of the store easily. You’re the whole package carpenter with great problem solving skills, your input, hard work, expertise & craftsmanship makes you someone we will definitely work with in the future.",
+      "time": "a year ago"
+    },
+    {
+      "author": "Donna Bozowsky",
+      "rating": 5,
+      "text": "We engaged Bluegums Heritage to repair a rotting doorframe at the back of our old workers cottage in Balmain.  As with many of these sorts of dwellings, it turned out that the structure that required rebuilding had not been originally built as expected.  Jonah was meticulous about trying to match architrave profiles, paint colours, etc.  He was also very conscientious about getting the job finished in spite of rain delays.  We would highly recommend Bluegums Heritage for any carpentry and/or heritage related jobs.",
+      "time": "2 years ago"
+    },
+    {
+      "author": "Ben A",
+      "rating": 5,
+      "text": "Very highly recommended! Jonah is honest, friendly, takes pride in his work and does a fantastic job. All this while being great value. There are not many tradesmen like him these days.",
+      "time": "a year ago"
+    },
+    {
+      "author": "Gerard Webb",
+      "rating": 5,
+      "text": "Could not recommend Jonah highly enough. His work is impeccable. He is punctual, efficient and clean. A very skilled carpenter with amazing attention to detail.",
+      "time": "2 years ago"
+    }
+  ],
+  "images": [
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_00.jpg",
+      "source": "google_places",
+      "width": 3056,
+      "height": 3056,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_01.jpg",
+      "source": "google_places",
+      "width": 4080,
+      "height": 3060,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_02.jpg",
+      "source": "google_places",
+      "width": 3060,
+      "height": 4080,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_03.jpg",
+      "source": "google_places",
+      "width": 4032,
+      "height": 3024,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_04.jpg",
+      "source": "google_places",
+      "width": 3600,
+      "height": 4800,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_05.jpg",
+      "source": "google_places",
+      "width": 611,
+      "height": 611,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_06.jpg",
+      "source": "google_places",
+      "width": 3056,
+      "height": 3056,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    },
+    {
+      "path": "deliverables/presale/bluegums-carpentry/assets/images/google/google_07.jpg",
+      "source": "google_places",
+      "width": 1044,
+      "height": 1018,
+      "attribution": [
+        "<a href=\"https://maps.google.com/maps/contrib/117735864897500416445\">Bluegums Carpentry</a>"
+      ]
+    }
+  ],
+  "sources_run": [
+    "google_places"
+  ]
+}
